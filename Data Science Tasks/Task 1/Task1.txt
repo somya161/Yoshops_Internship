@@ -1,0 +1,10 @@
+Python Project Task 1:
+
+1. Write a python program to display products count number by products main categories and sub categories.
+2. Enter 1 put value link = Yoshops.com
+3. Enter 2 put categories link=
+4. Output = create excel file with Name Category, Products count,Total products count.
+5. After completing task please convert your PY file to EXE file and uploaded both py file and Exe file in mega.io and send link to me on WhatsApp
+
+Please go through below video link to understand  exe file convert process
+https://youtu.be/GASjjIGcfBo
