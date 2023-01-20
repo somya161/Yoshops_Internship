@@ -1,0 +1,12 @@
+Task4: Digital Marketing Automation 
+---------------------------
+Input Value Type text-  Item name-Data Science Basic Training Program for Everyone(Age=10 to 60)
+Input Value Type link  : https://yoshops.com/products/data-science-basic-training-program-for-everyone-age-10-t0-60
+
+Output:
+
+1.Create Banner(Jpg,Png),Tag Line for topic(notepad),Topic description file(notepad),keyword file(notepad),
+
+2.Create 20sec 🎥   shorts videos(MP4) on Data Science Basic Training Program for Everyone
+
+3.Write a blog on Data Science Basic Training Program for Everyone.
