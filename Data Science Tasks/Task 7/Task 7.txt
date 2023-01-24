@@ -1,0 +1,9 @@
+Task-7 
+
+Creat script in python program using web scrapping generate report of colleges Data like College name, URL, address, email id, phone number.
+Enter 1 for tire 1 city = Mumbai, Delhi, kalkatta, Chennai
+Enter 2= Capital of every state
+Enter 3= Total city of every state
+entering 1 will return: all the colleges in delhi, mumbai, kolkatta, chennai
+entering 2 will return: all the colleges in capital of every state(Bihar->patna, UP -> Lakhnaw, etc).
+entering 3 will return: all the colleges in each city of all states, meaning all colleges of india.
