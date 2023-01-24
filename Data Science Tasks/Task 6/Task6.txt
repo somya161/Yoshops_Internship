@@ -1,0 +1,8 @@
+Task-6
+Payroll ATS
+1. pay slips generate monthly one time
+2. cash flow report a. for chennai
+   b. for franchises (Aurangabad)
+3. Balance Sheet report a. for chennai
+   b. for aurangabad
+4. Stack holder distribute(profit) report
