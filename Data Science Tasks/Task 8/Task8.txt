@@ -1,0 +1,9 @@
+Task-8
+
+Ambur Biryani Billing System:
+Create a Billing system where  input value:
+Name:
+Phone no:
+Food item no:
+Output: Generated bill and save bill in folder.
+(submit output in .exe format along with your code.)
